@@ -3,7 +3,7 @@
 
 This is a Python-based application that calculates the total salary for an employee based on various factors such as position, academic degree, age, years of service, and more. The system uses a GUI (Graphical User Interface) built with Tkinter and connects to a MySQL database to retrieve and process employee data.
 
-This mini-project was part of an individual evaluation. The teacher was in charge of passing us the pictures of the conditions that the net salary calculation would have and the creation of the database with the predetermined data for the proper functioning of the queries. We, the students, only had to make the program with its respective GUI and the appropriate conditions given by the professor.
+This mini-project was part of an individual evaluation. The teacher was in charge of supplying us with the images of the conditions that the net salary calculation would have and the creation of the database with the predetermined data for the correct functioning of the queries. We, the students, only had to make the program with its respective GUI and the appropriate conditions given by the teacher.
 
 It should be noted that everything was tested on a local server.
 
