@@ -27,7 +27,7 @@ It should be noted that everything was tested on a local server.
 
 1. **Clone the repository:**
    ```
-   git clone <your-repository-url>
+   git clone https://github.com/AnDev2804/netsalary2.0
    ```
 
 2. **Configure the database:**
